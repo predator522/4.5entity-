@@ -1,0 +1,31 @@
+{
+  "name": "entity-4.5",
+  "version": "1.0.0",
+  "description": "Entity 4.5 — the dog without limits",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "ai",
+    "developer",
+    "assistant",
+    "deepseek"
+  ],
+  "author": "Entity 4.5",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
